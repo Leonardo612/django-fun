@@ -22,6 +22,6 @@ def package(request):
 
 
 
-# https://dev.to/camerenisonfire/10-intriguing-public-rest-apis-for-your-next-project-2gbd
+# https://dev.to/camerenisonfire/10-intriguing-public-rest-apis-for-your-next-project-2gbd 
 # https://pokeapi.co/docs/v2#pokemon
 # https://github.com/PokeAPI/pokebase
